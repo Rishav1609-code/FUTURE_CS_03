@@ -26,8 +26,8 @@ FUTURE_CS_03/
 ├── /templates                # HTML templates
 ├── /screenshots              # UI & codes screenshots
 ├── /video                    # Walkthrough/demo video
-│── /dencrypted_files         # Stores all decrypted files
-│── /encrypted_files          # Stores all encrypted files
+│── /dencrypted               # Stores all decrypted files
+│── /encrypted                # Stores all encrypted files
 │── /uploads_files            # Stores all uploaded files before processing
 └── README.md                 # Project documentation
 ```
